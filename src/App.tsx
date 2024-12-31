@@ -1,10 +1,12 @@
+import styles from './styles/index.module.css'
+
 function App() {
 
   return (
-      <div>
-        <p>
-          2048
-        </p>
+      <div className={styles.twenty48}>
+        <header>
+        <h1>2048</h1>
+        </header>
       </div>
   )
 }

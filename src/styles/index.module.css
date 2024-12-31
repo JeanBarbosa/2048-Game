@@ -1,0 +1,6 @@
+.twenty48 {
+  margin: calc(var(--pixel-size) * 0) auto;
+  padding: calc(var(--pixel-size) * 1);
+  width: 100%;
+  max-width: calc(var(--pixel-size) * 37);
+}
